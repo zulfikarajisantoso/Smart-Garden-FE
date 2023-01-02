@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.contain{
+    background-color: rgba(255, 255, 255, .90); 
+   backdrop-filter: blur(0px);
+   border-radius: 30px;
+}
+.homee{
+
+    width: 100%;
+    z-index: 5;
+}
+.bgnya{
+    width: 100%;
+    z-index: 1;
+ 
+}
